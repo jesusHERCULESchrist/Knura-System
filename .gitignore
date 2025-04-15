@@ -6,8 +6,12 @@
 
 !.gitignore
 
-!000_NiakoUtils
-!001_DuckweedUtils
+!000_NiakoUtils/
+!000_NiakoUtils/**
+!001_DuckweedUtils/
+!001_DuckweedUtils/**
 
 !KnuraSystem/
-!Scatterer_KnuraSystem
+!KnuraSystem/**
+!Scatterer_KnuraSystem/
+!Scatterer_KnuraSystem/**

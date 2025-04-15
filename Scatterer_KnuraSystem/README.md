@@ -1,0 +1,1 @@
+This is a scatterer dependancy for the Knura System mod, which i shamelessly and effortlessly copies the scatterer dependacy for OPM to make.  You take one look at the configs in here and tell you have you any idea what any of that means because i don't have a damn clue.  
