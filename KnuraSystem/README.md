@@ -1,5 +1,5 @@
 # The Knura System
-![Knura from Gloth](https://i.imgur.com/VDxAZfJ.png)
+![Knura from Gloth](https://i.imgur.com/dDE5fM4.jpeg)
 
 ## What is the Knura System?
 The Knura system is a brand new planet for the Kerbol system.  Knura is a Super-Neptune, with a radius about half-way between that of Saturn and Neptune.  Aesthetically it is quite different from either real-world counterpart; its apparent surface is a bright
