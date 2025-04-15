@@ -1,17 +1,22 @@
-# Ignore everything...
-
+# This asterix tell Git to automatically ignore all files in the directory apart from the ones listed below with a "!".  Don't delete it.  
 *
 
-# ... Except the following
-
+# Need this to save the config
 !.gitignore
 
+# Dependancies
 !000_NiakoUtils/
 !000_NiakoUtils/**
 !001_DuckweedUtils/
 !001_DuckweedUtils/**
+!SigmaBinary/
+!SigmaBinary/**
 
+# Mod files
 !KnuraSystem/
 !KnuraSystem/**
 !Scatterer_KnuraSystem/
 !Scatterer_KnuraSystem/**
+!EVE_KnuraSystem/
+!EVE_KnuraSystem/**
+

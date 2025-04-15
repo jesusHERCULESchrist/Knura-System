@@ -1,0 +1,293 @@
+**v1.7.4**
+
+- Changed folder for better install automation (CurseForge client)
+- Updated to KSP 1.11.1 and Kopernicus 1.11.1_Release77
+
+
+**v1.7.3**
+
+- Updated to KSP 1.8.1 and Kopernicus 1.8.1-1
+- Fixed PeriodFixer
+
+
+**v1.7.2**
+
+- Recompiled against KSP 1.7.1 and Kopernicus 1.7.1-4
+
+
+**v1.7.1**
+
+- Recompiled against KSP 1.6.0 and Kopernicus 1.6.0-1
+
+
+**v1.7.0**
+
+- Recompiled against KSP 1.4.3 and Kopernicus 1.4.3-1
+- Removed KSP-AVC compatibility
+- Updated to Sigma LoadingScreens v0.4.0
+
+
+**v1.6.11**
+
+- Tweaked code to allow SD compatibility
+
+
+**v1.6.10**
+
+- Updated to Kopernicus 1.3.1-5
+- Updated to Sigma LoadingScreens v0.3.3
+- Moved all functionality into the plugin
+- Removed some easter-eggs
+
+
+**v1.6.9**
+
+- Fixed log spam on binary system flybys
+
+
+**v1.6.8**
+
+- Updated to Sigma LoadingScreens v0.3.1
+
+
+**v1.6.7**
+
+- Updated to KSP 1.3.1 and Kopernicus 1.3.1-2
+- Moved LoadingScreens textures to reduce RAM usage
+- Added support for localization
+
+
+**v1.6.6**
+
+- Updated to Kopernicus 1.3.0-7
+- Added Sigma88LoadingScreens plugin
+- Fixed science archives
+- Improved internal code
+
+
+**v1.6.5**
+
+- Fixed log spam on binary system flybys
+- Blocked generation of undesired contracts
+
+
+**v1.6.4**
+
+- Updated to Kopernicus 1.3.0-4
+
+
+**v1.6.3**
+
+- Updated to KSP 1.3.0 and Kopernicus 1.3.0-1
+
+
+**v1.6.2**
+
+- Updated to KSP 1.2.2 and Kopernicus 1.2.2-1
+
+
+**v1.6.1**
+
+- Fixed Kopernicus compatibility (again)
+- Fixed KSP-AVC compatibility
+
+
+**v1.6.0**
+
+- Updated to KSP 1.2.1 and Kopernicus 1.2.1-1
+- Fixed tracking station bug that made planets go off their orbits
+- Fixed science archives so that barycenter bodies are not shown
+- Removed compatibility with parameter 'selectable' for barycenters
+- Added automatic Kerbin reparenting when needed
+- Added compatibility with Kopernicus new feature 'PostSpawnOrbit'
+- Added compatibility with parameter 'iconColor' for barycenters
+- Added time dependent easter eggs
+- Added option to disable easter eggs (only for who hates fun)
+
+
+**v1.5.5**
+
+- Updated to KSP 1.1.3 and Kopernicus 1.1.2
+- Fixed custom orbit color loading for barycenters
+
+
+**v1.5.4**
+
+- Minor bug fix
+
+
+**v1.5.3**
+
+- Added some fail-safe measures to the code
+
+
+**v1.5.2**
+
+- Fixed science archives
+
+
+**v1.5.1**
+
+- Updated to KSP 1.1.2 and Kopernicus 1.0.3
+- Fixed a bug with binary systems outside the orbit of Jool
+
+
+**v1.5.0**
+
+- Updated to KSP 1.1 and Kopernicus 1.0
+- Fixed a bug that sometimes occurred while exiting the Primary SoI
+
+
+**v1.4.9.2**
+
+- Fixed an issue with bodies using cbNameLater
+
+
+**v1.4.9.1**
+
+- Fixed removal of bodies from the science archives
+- Changed mass displayed for the barycenter
+- Fixed a bug that prevented some of the options to load correctly
+
+
+**v1.4.9**
+
+- Reworked all cfg files
+- Removed the need of template.cfg files
+- Moved the majority of features into SigmaBinary.dll
+- Barycenters now do not show up into the science archives
+- Added the option to choose the name of the barycenter
+- Added the option to choose the description of the barycenter
+- Added the option to choose the orbit color of the barycenter
+- Added the option to tidally lock the primary to the secondary
+- Added the option to disable the redrawn orbits for secondary bodies
+
+
+**v1.4.0**
+
+- Barycenter name now accounts for cbNameLater
+- Secondary orbit line is now drawn relative to the barycenter
+- template.cfg now deactivates if there are missing bodies
+- Fixed calculation of minimum SphereOfInfluence
+- Fixed calculations when finalizeOrbit is used
+- Moved clean-up of temp values from :FINAL to :FOR[SigmaCleanUp]
+- Fixed names of config files to account for linux case sensitivity
+
+
+**v1.3.3**
+
+- Added conversion of meanAnomalyAtEpochD (deg) to meanAnomalyAtEpoch (rad)
+
+
+**v1.3.2**
+
+- Fixed mass calculation from gravParameter
+- Barycenters doesn't generate cache files
+- Fix for stars used as Primary bodies
+
+
+**v1.3.1**
+
+- Added compatibility with templateless planets
+- Added code to remove duplicate values
+
+
+**v1.3.0**
+
+- Now Requires KSP 1.0.5
+- Now Requires Kopernicus Beta 0.5
+- Template.cfg and DunaIke.cfg are now in separate downloads
+- Folder structure changed
+- Overhauled the code to reflect Kopernicus changes
+
+
+**v1.2.1**
+
+- Bug Hotfix
+
+
+**v1.2.0**
+
+- Improved definition of template parameters
+- Improved calculation of mass for planets
+- Improved compatibility with GalacticNeighborhood
+
+
+**v1.1.1**
+
+- Improved compatibility with planet packs
+
+
+**v1.1.0**
+
+- Now Requires Kopernicus Beta 0.4
+- Refined RSS compatibility
+- Added compatibility with finalizeOrbits
+- Removed useless code from StockFix.cfg
+- Fixed tidal lock issue in StockFix.cfg
+- Increased barycenters radius to 61m to solve a Tracking Station Bug
+- Renamed the folder from "BinaryExpansion" to "Binary"
+
+
+**v1.0.2**
+
+  - Hotfix updating .version file for KSP-AVC compatibility
+
+  
+**v1.0.1**
+
+  - Hotfix for RSS compatibility
+
+  
+**v1.0.0**
+
+  - Added compatibility with RSS and other Rescale Mods not 100% compatible yet
+  - Added an exception for ISRU contracts on barycenters
+  - Other minor changes to the code
+
+  
+**v0.2.4**
+
+  - removed kopernicus cache file generation for barycenters
+
+  
+**v0.2.3**
+
+  - changed the calculation of sphereOfInfluence for every body in the binary system
+  - added a check to make sure the SoI of the secondary body never reaches the primary's surface
+
+  
+**v0.2.2**
+
+  - added code to calculate mass from gravParameter if both mass and geeASL are not set
+  - changed the value of G (universal gravitational constant) from 6.67384e-11 to 6.674e-11
+
+  
+**v0.2.1**
+
+  - Fixed mass calculation from geeASL+radius (for reals this time)
+
+  
+**v0.2.0**
+
+  - Fixed mass calculation from geeASL+radius
+  - Fixed a bug which didn't allow for the use of more than one template.cfg file
+  - Added an example for the Kopernicus feature "baryCenter"
+  - template.cfg was changed, old versions won't work with this release
+  - removed "baryCenter = true" parameter from barycenters
+
+  
+**v0.1.0**
+
+  - Fixed the calculation of:  
+      Sphere Of Influence	  
+      Planet rotationPeriod	  
+      Orbital Parameters
+	  
+  - Added "baryCenter = true" parameter to barycenters
+  - Removed calculation of "flightGlobalIndex" since it's useless
+
+  
+**v0.0.4**
+
+ - First Release
