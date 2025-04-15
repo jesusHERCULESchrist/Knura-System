@@ -1,0 +1,13 @@
+# Ignore everything...
+
+*
+
+# ... Except the following
+
+!.gitignore
+
+!000_NiakoUtils
+!001_DuckweedUtils
+
+!KnuraSystem/
+!Scatterer_KnuraSystem
