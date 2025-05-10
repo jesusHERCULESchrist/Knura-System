@@ -4,6 +4,9 @@
 # Need this to save the config
 !.gitignore
 
+# Da readme
+!README.md
+
 # Dependancies
 !000_NiakoUtils/
 !000_NiakoUtils/**
