@@ -1,5 +1,5 @@
 # The Knura System
-![logo](https://i.imgur.com/6L0TtU0.png)
+![logo](https://i.imgur.com/B6u2SNO.png)
 
 ## tl;dr: Download
 
