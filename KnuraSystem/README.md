@@ -67,7 +67,6 @@ Not much is know about these bodies, other than their distant, eccentric orbit, 
 ## What still needs to be done
 
 - Hilli, Sixle and Chople all have reflective scaledVersions, but look matt when the actual planet is loaded.  This is annoying but i don't know how to fix it.  
-- I cannot for the LIFE of me figure out how to place easter egg structures, or "cities" are they are referred to in the config.  This might need another mod to be added to the mix.
 - I would also like to impliment Parallax, but i took a serious earnest look at this a while ago and just could not figure out how it all worked.  So i might just leave that in the hands of... some Imaginary adoring fan, at some point down the line.  
 - Some of the moons scaledVersions need some work - some of them are just a bit ugly and smoothed out compared to the moons actual surface, but Gloth has the additional issue that its scaledVersion coastline doesn't match its actual coastline in all cases.  This also effects in biome map.
 - There are two gaps in the outer ring, similar to the gaps in the inner right that Hop and Skip sit in.  Naturally i'd like to fill them with two more asteroids.  The last unused pair of names i have is Divot and Dent, which i like a lot, so i'll probably use them unless a divine beam of inspiration hits me.
@@ -76,9 +75,7 @@ Not much is know about these bodies, other than their distant, eccentric orbit, 
 ## What i'd like to still add (probably spoilers)
 - Scatters on Chople that look like shards of twisted glass.  I tried something like this before but wasn't happy with the model i made.  
 - Scatters on Ollagander that just look like metal spikes.  
-- I want at least for more surface easter eggs across the system.  Ideas include:-
-    - Buried Kanohi Ignika on Run (i already have a model for this in KK but i wasn't totally happy with it - i just imported it from stud.io).  
-    - Alien spaceship on Lema.  
+- I want at least for more surface easter eggs across the system.  Ideas include:- 
     - Some kind of stone circle/alien structure in Basil Mare Lamenta.  
     - A large alien structure of some kind.  
         - I am going to look into wormhole mods for this because i think it would be very cool for it to be a stargate of sorts.  Where does it lead to?  I dunno yet.  
