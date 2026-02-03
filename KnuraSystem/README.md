@@ -20,7 +20,13 @@ If Laythe is like a smaller Kerbin, then Gloth is definitely a small Eve.  It po
 
 ![Chople](https://i.imgur.com/f4H3eKF.jpeg)
 
-Chople is quite unlike anything in our solar system.  It appears like a great piece of green sea glass, with its surface knapped into high plateaus, ridged moutains and deep, scooped out basins.  Its surface is defined by the Grand Craggle, a spanning network
+Chople is quite unlike anything in our solar system.  It appears like a great piece of green sea glass, with its surface knapped into high plateaus, ridged moutains and deep, scooped out basins.  Its surface is defined by the Grand Cragglemkdir -p ~/.config/pipewire/pipewire.conf.d/ && \
+cat <<EOF > ~/.config/pipewire/pipewire.conf.d/clock-fix.conf
+context.properties = {
+    default.clock.rate = 48000
+    default.clock.allowed-rates = [ 48000 ]
+}
+EOF, a spanning network
  of valleys that terminates in a deep, ciruclar crater.  What could have carved such a fluid feature out of this glassy world?
 
 ### Basil
@@ -71,14 +77,7 @@ Not much is know about these bodies, other than their distant, eccentric orbit, 
 - Some of the moons scaledVersions need some work - some of them are just a bit ugly and smoothed out compared to the moons actual surface, but Gloth has the additional issue that its scaledVersion coastline doesn't match its actual coastline in all cases.  This also effects in biome map.
 - There are two gaps in the outer ring, similar to the gaps in the inner right that Hop and Skip sit in.  Naturally i'd like to fill them with two more asteroids.  The last unused pair of names i have is Divot and Dent, which i like a lot, so i'll probably use them unless a divine beam of inspiration hits me.
 - I recently found old files from like ten years ago, when i was making planet packs for Kopernicus' predecessor Kragrathea.  The of the planets that i managed to find files for was a cracked, muddy world named Clyne.  I would like to modernise this and add it to this planet pack as a Plutoid between Duna and Jool, like Dres.  
-
-## What i'd like to still add (probably spoilers)
 - Scatters on Chople that look like shards of twisted glass.  I tried something like this before but wasn't happy with the model i made.  
 - Scatters on Ollagander that just look like metal spikes.  
-- I want at least for more surface easter eggs across the system.  Ideas include:- 
-    - Some kind of stone circle/alien structure in Basil Mare Lamenta.  
-    - A large alien structure of some kind.  
-        - I am going to look into wormhole mods for this because i think it would be very cool for it to be a stargate of sorts.  Where does it lead to?  I dunno yet.  
-    - A magic asteroid style orbital easter egg.  Im imagine a sphere in the style of the alien cube.  Id also really like it to have a kill-radius but im not sure how best to impliment that.  
 
 ![Gloths coastal groves](https://i.imgur.com/tFQWh6K.png)
