@@ -3,7 +3,7 @@
 
 ## tl;dr: Download
 
-You can download the mod and its dependancies here.  You don't strictly need SigmaBinary or the EVE and Scatterer configs to run the pack but i would recommend it.  
+You can download the mod and its dependancies [here](https://github.com/jesusHERCULESchrist/Knura-System/releases/tag/2.0).  You don't strictly need SigmaBinary or the EVE and Scatterer configs to run the pack but i would recommend it.  
 
 ## What is the Knura System?
 
