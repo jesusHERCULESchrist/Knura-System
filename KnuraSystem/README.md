@@ -3,7 +3,7 @@
 
 ## What is the Knura System?
 
-![Knura](https://i.postimg.cc/k5T1hkSZ/Screenshot_20260208_170532.png)
+![Knura](https://i.postimg.cc/j2ZbPRBJ/Screenshot-20260415-211714.png)
 
 The Knura system is a brand new planet for the Kerbol system.  Knura is a Super-Neptune, with a radius about half-way between that of Saturn and Neptune.  Aesthetically it is quite different from either real-world counterpart; its apparent surface is a bright
 sky-blue, and it banded with white and grey clouds.  It has two white-blue rings - a thin inner ring sheparded by the twin asteroids Hop and Skip, and a wider outer ring sheparded by the first two major moons, Gloth and Chople.  

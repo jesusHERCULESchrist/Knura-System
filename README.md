@@ -7,7 +7,7 @@ You can download the mod and its dependancies [here](https://github.com/jesusHER
 
 ## What is the Knura System?
 
-![Knura](https://i.postimg.cc/k5T1hkSZ/Screenshot_20260208_170532.png)
+![Knura](https://i.postimg.cc/j2ZbPRBJ/Screenshot-20260415-211714.png)
 
 The Knura system is a brand new planet for the Kerbol system.  Knura is a Super-Neptune, with a radius about half-way between that of Saturn and Neptune, and a semimajor axis a little higher than Saturns.  I feel like the mod scene is quite well saturated with Saturn-type planets packs, so i have tried to do something a little different.  I've tried to focus on capturing some of the uncanny weirdness of the original KSP planets - sort of a happy middleground between technically realistic and fantastical.  Eve had no real-world reason to be purple, but thats what makes the game so memorable.  
 
